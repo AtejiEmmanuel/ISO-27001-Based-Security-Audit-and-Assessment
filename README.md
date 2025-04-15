@@ -95,4 +95,4 @@ graph TD
 ---
 
 ## Full Project Documentation
-For comprehensive details, please refer to the [complete documentation](link-to-pdf).
+For comprehensive details, please refer to the [complete documentation](https://github.com/AtejiEmmanuel/ISO-27001-Based-Security-Audit-and-Assessment/blob/a3bea7de56655826651135ff8e9e756eefde679c/ISO%2027001-Based%20Security%20Audit%20and%20Assessment.pdf).
