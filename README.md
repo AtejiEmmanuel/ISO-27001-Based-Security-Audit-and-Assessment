@@ -72,7 +72,7 @@ The *Junior Auditor Guidebook* is designed to help new auditors understand the e
 ### Audit Process Flow
 ```mermaid
 graph TD
-    A[Stage 1] -->|Review docs| B[Stage 2]
+    A[Stage 1] -->|Document Review| B[Stage 2]
     B --> C[Surveillance Audits]
     C --> D[3-Year Recertification]
 ```
@@ -83,7 +83,17 @@ graph TD
 |----------|----------|--------------------|---------------------------------------------------------|--------------------------|--------------------------|
 | Clive Prichard | IS Manager/Management representative | Ensuring the ISMS conforms to ISO 27001 requirements | - Knowledge of ISMS, ISO 27001, and LDCC's processes.<br>- Leadership and communication skills<br>- Objective and impartial. | Clause 5.3 | Clause 5.2, 7.1.2, 7.2.8 |
 | Gordon Black | Controls Manager/ISMS Auditor | Planning and conducting ISMS audits, reporting to the ISF | - Knowledge of ISO 27001, auditing techniques, and LDCC's ISMS.<br>- Analytical and observational skills.<br>- Ethical and detail-oriented. | Clause 9.2 | Clause 7.1.2, 7.2.2, 7.2.3, 7.2.4, 7.2.5, Annex A |
-| Fay Woodward | Team Leader/ISMS Auditor | Assisting in ISMS audits, reporting to the Controls Manager | - Knowledge of ISO 27001, LDCC's ISMS, and auditing methods.<br>- Communication and interpersonal skills.<br>- Professional and adaptable | Clause 9.2 | Clause 7.1.2, 7.2.2, 7.2.3, 7.2.4, 7.2.5, Annex A |
+
+### Auditor Checklist Table
+Here's the table converted to GitHub markdown format:
+
+| **Clause** | **Requirement** | **Source** | **Evidence** | **Observations/Findings** |
+|------------|-----------------|------------|--------------|---------------------------|
+| **4.1** | Understanding the organization and its context. | - Strategic Mission Statement (D1).<br>- Security Context (D6). | - Does the Strategic Mission Statement (D1) outline LDCC's objectives and mission?<br>- Does the Security Context document (D6) provide a comprehensive analysis of LDCC's external and internal issues? | - The Strategic Mission Statement (D1) outlines LDCC's objectives and mission.<br>- The Security Context document (D6) provides a comprehensive analysis of LDCC's external and internal issues. |
+| **4.2** | Understanding the needs and expectations of interested parties. | Interested Parties (D7) | - Does the Interested Parties document (D7) identify key stakeholders and their information security requirements? | - The Interested Parties document (D7) identifies key stakeholders and their information security requirements |
+| **5.1** | Leadership and commitment. | - Information Security Policy (D2).<br>- Management Review Minutes (D5). | - Does the Information Security Policy (D2) demonstrate top management's commitment to ISMS?<br>- Do the Management Review Meeting Minutes (D5) show leadership involvement in ISMS review? | - Inconsistent attendance and participation of top management in Management Review Meetings (D5).<br>- The policy does not clearly communicate top management's commitment to ensure the integration of the ISMS requirements into the organization's processes. |
+| **6.1.2** | Information security risk assessment. | - Information Security Risk Assessment Procedure (D11).<br>- Risk Assessment Template (D13) | - Does the Information Security Risk Assessment Procedure (D11) define the risk assessment methodology?<br>- Does the Risk Assessment Template (D13) show risks are identified, analysed, and evaluated? | The Risk Assessment Template (D13) demonstrates a structured approach to risk identification, analysis, and evaluation. |
+
 
 ## References
 - ISO 27001:2022 Standard
