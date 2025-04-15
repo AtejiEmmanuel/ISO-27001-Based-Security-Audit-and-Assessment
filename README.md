@@ -1,4 +1,4 @@
-# ISO 27001 Audit Guide for LDCC
+#  ISO 27001-Based Security Audit and Assessment
 
 ## Overview
 This project outlines a comprehensive ISO 27001 audit for Lake Dale Contact Centre (LDCC), including audit questions, non-conformity reports, and a junior auditor guidebook. The goal is to help LDCC establish an effective Information Security Management System (ISMS) aligned with ISO 27001 standards.
